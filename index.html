@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,500;1,100&display=swap" rel="stylesheet">
+    <title>Регистрация</title>
+</head>
+<body>
+    <div id="modal" class="modal">
+        <div class="modal-content">
+          <span class="close">&times;</span>
+          <p>Вы успешно зарегестрированы!</p>
+        </div>
+      
+      </div>
+    <div class="wrapper">
+        <div class="content">
+            <h2>Зарегистрироваться</h2><br>
+            <form action="" method="POST" id="reg_form" required>
+            <div class="input-box"><input type="text" name="user_name" id="user_name" placeholder="Имя" class="input-field"/></div>
+            <div class="input-box"><input type="text" name="sur_name" id="sur_name" placeholder="Фамилия" class="input-field"/></div>
+            <div class="input-box"><input type="text" name="email" id="email" placeholder="E-mail" class="input-field" /></div>
+            <p id="email-error" class="error-text"></p>
+            <div class="input-box"><input type="text" title="Телефон должен быть в формате +7996***9017!" name="phone"  maxlength="15"  id="phone" class="input-field"  placeholder="Телефон"/>
+            <p id="error-text" class="error-text"></p>
+            </div>
+            <ul class="checkboxes">
+                <li class="checkbox-group"><input type="checkbox" id="checkbox" class="checkbox" required><label for="checkbox-1" class="label" >Я принимаю <a href=#>условия</a></label></li>
+            </ul>
+                <button type="submit" name="send_btn" id="send_btn" class="send-btn">Зарегистрироваться</button>
+            </form>
+            <script src="js/main.js"></script>
+
+        </div>          
+        </div>
+    
+</body>
+</html>
