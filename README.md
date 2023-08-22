@@ -1,6 +1,6 @@
 <html>
   <header>
-    <span>Hello welcome to Adaptive-design-without-Bootstrap
+    <span style="font-size:18pt;">Hello welcome to Adaptive-design-without-Bootstrap
       
 </span>
   </header>
@@ -19,7 +19,7 @@
 <h1>Success Registration</h1>
   <img src="https://github.com/ShineBulate/adaptive-design-without-Boostrap/assets/89338809/ea37084b-7ad8-4686-ba60-235748a8d8d3/">
 </div>
-<span>
+<span style="forn-size:16pt;">
   All remarks i you can send to my mail Shinohara43@icloud.com
   Thank you for watch!
 </span>
