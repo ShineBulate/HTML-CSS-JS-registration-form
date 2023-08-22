@@ -1,11 +1,10 @@
 <html>
   <header>
     <pre style="font-size:18pt;">
-    Hello welcome to Registration form 
+    Hello welcome to Registration form <br>
     with use HTML-CSS-JS　im glad to see you
     ここで来てありがとうございました。
     ここでHTML-CSS-JSを使い形状をつくりました。
-      
 </pre>
   </header>
 <div style="">
