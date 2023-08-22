@@ -1,6 +1,8 @@
 <html>
   <header>
-    <pre style="font-size:18pt;">Hello welcome to Registration form with use HTML-CSS-JS　im glad to see you
+    <pre style="font-size:18pt;">
+    Hello welcome to Registration form 
+    with use HTML-CSS-JS　im glad to see you
     ここで来てありがとうございました。
     ここでHTML-CSS-JSを使い形状をつくりました。
       
@@ -11,10 +13,10 @@
   <pre>
     Here you can to see Main page with form to sign up
     Translate from Russian language to Eng and Jap
-    Зарегистрироваться - Sign up - 登録
-    Имя - Name　－お名前
-    Фамилия　－Last name 姓
-    Телефон - Phone - お電話番号
+    Зарегистрироваться ・ Sign up ・ 登録
+    Имя・Name・お名前
+    Фамилия・Last name・ 姓
+    Телефон・Phone・お電話番号
 </pre>
 <img src="https://github.com/ShineBulate/HTML-CSS-JS-REGISTRATION-FORM/assets/89338809/f27d77d4-8097-4d63-ad27-dba7a11ba439/">
 </div>
