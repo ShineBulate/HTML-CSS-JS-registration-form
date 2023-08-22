@@ -9,8 +9,9 @@
 <div style="">
 <h1>Main Page</h1>
   <pre>
-    Here you can to see Main page with form registration
+    Here you can to see Main page with form to sign up
     Translate from Russian language to Eng and Jap
+    Зарегистрироваться - Sign up - 登録
     Имя - Name　－お名前
     Фамилия　－Last name 姓
     Телефон - Phone - お電話番号
