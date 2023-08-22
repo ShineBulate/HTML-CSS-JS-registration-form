@@ -35,7 +35,7 @@
 </div>
 <div style="">
 <h1>Success Registration</h1>
-  Here is success modal window if all validation 
+  Here is success modal window if all validation <br>
   was complete user can to register
   ここでモーダルウィンドウ全部大丈夫なら合格します
   <img src="https://github.com/ShineBulate/adaptive-design-without-Boostrap/assets/89338809/ea37084b-7ad8-4686-ba60-235748a8d8d3/">
