@@ -6,8 +6,7 @@
   </header>
 <div style="">
 <h1>Main Page</h1>
-<img src="https://github.com/ShineBulate/HTML-CSS-JS-REGISTRATION-FORM/assets/89338809/c0c845e9-a20b-4073-898f-5a0c1bdfecdb/
-">
+<img src="https://github.com/ShineBulate/HTML-CSS-JS-REGISTRATION-FORM/assets/89338809/f27d77d4-8097-4d63-ad27-dba7a11ba439/">
 </div>
 <div style="">
 <h1>Phone Check (Only Russian code)</h1>
