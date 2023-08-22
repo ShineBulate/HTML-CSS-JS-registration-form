@@ -39,10 +39,11 @@
   ここでモーダルウィンドウ全部大丈夫なら合格します
   <img src="https://github.com/ShineBulate/adaptive-design-without-Boostrap/assets/89338809/ea37084b-7ad8-4686-ba60-235748a8d8d3/">
 </div>
-<span style="forn-size:16pt;">
+<pre style="forn-size:16pt;">
   All remarks i you can send to my mail Shinohara43@icloud.com
-  ここで読んでありがとうございました。
   Thank you for watch!
-</span>
+  ここまで読んでくれてありがとうございました。
+  もし質問あればメールを連絡してください
+</pre>
 </div>
 </html>
